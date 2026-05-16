@@ -39,6 +39,6 @@ The complete LaTeX templates, structural abstract variations, and configuration 
   year={2026},
   publisher={GitHub},
   journal={GitHub Repository},
-  howpublished={\url{https://github.com}}
+  howpublished={\url{[https://github.com](https://github.com/fahdev789/contectual-refrarming-reasoning)}}
 }
 ```
