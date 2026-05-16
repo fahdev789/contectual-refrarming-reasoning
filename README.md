@@ -5,7 +5,7 @@ This repository contains the empirical framework, dataset loops, and evaluation 
 ## 🔬 Core Finding
 Contextual reframing and background prompt noise compress an LLM's latent reasoning trace footprint. This causes the internal attention engine to drop active logical self-verification phrases ($D_v \to 0$) well before hitting absolute context allocation bounds.
 
-![Empirical Profile of Verification Drop Behavior](MODEL-COMPARISON.png)
+![Empirical Profile of Verification Drop Behavior](/MODEL-COMPARISON.png)
 
 ## 🛠️ Rapid Replication Pipeline
 
